@@ -1,4 +1,3 @@
-Building stuff is fun! 
-
+## Building stuff is fun! 
 - Currently building web applications...
-- In the future, I will build stuff like games, mobile apps, and more!
+- In the future, I will build stuff like games, mobile apps, and more
